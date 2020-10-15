@@ -1,0 +1,8 @@
+<view class="{{cn}}">
+  <rose
+    radius="{{radius}}"
+    series="{{series}}"
+    legend="{{legend}}"
+    style="{{style}}"
+  />
+</view>

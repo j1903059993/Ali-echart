@@ -1,0 +1,8 @@
+<view class="{{cn}}">
+  <k
+    series="{{series}}"
+    xAxis="{{xAxis}}"
+    yAxis="{{yAxis}}"
+    guide="{{guide}}"
+  />
+</view>
